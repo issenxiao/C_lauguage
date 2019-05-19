@@ -1,4 +1,4 @@
-# the-first-code-of-myself
+# the c language
 我的第一个储存库
 #include<stdio.h>
 int main(void)
